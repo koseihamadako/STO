@@ -8,6 +8,7 @@ This GitHub  repository contains solution to Email Send Time optimization proble
 * **util.py** - set of functions used during the analysis (should be placed in same repository)
 * **src** - folder with data
 * **data** - folder with preprocessed dataframe
+* **imgs** - folder with images used in `Report.ipynb`
 
 ## Report:
 
