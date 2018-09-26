@@ -12,4 +12,4 @@ This GitHub  repository contains solution to Email Send Time optimization proble
 
 ## Report:
 
-If you are not interested in seeing python scripts, just read the `Report.ipynb`.
+If you are not interested in seeing python scripts, just read the `Report.ipynb` if you are able to or use `Report.html` instead.
